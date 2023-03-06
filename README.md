@@ -1,7 +1,10 @@
-# ChatGPT for Translation | ChatGPT用于翻译
+# ChatGPT for Academic Translation | ChatGPT用于翻译
+
+## 先占个坑，开题答辩完了写。欢迎先star关注。如果您有好的想法，也欢迎PR，我们一起来完成
+
 This is a simple tool that uses ChatGPT to translate text into a specified target language. The program takes a text file (`.txt` or `.md`)as input, and outputs a **translated** text file or a **bilingual** text file with the original and translated text side by side.
 
-使用ChatGPT将文本翻译成指定的目标语言。该程序接受一个文本文件（`.txt`或`.md`）作为输入，并输出一个**翻译的**文本文件或一个**双语的**文本文件，并列显示原始文本和翻译文本。
+使用ChatGPT将文本翻译成学术文本，方便学术论文的写作。该程序接受一个文本文件（`.txt`或`.md`）作为输入，并输出一个**翻译的**文本文件或一个**双语的**文本文件，并列显示原始文本和翻译文本。
 
 
 Use this tool on Google Colab (recommended): https://colab.research.google.com/drive/1_715zHeS3VaZaB9ISyo29Zp-KOTsyP8D?usp=sharing
